@@ -184,7 +184,7 @@ figure.effect-oscar:hover p {
 	opacity: 1;
 	-webkit-transform: scale(1);
 	transform: scale(1);
-	color:#fff;+++++++
+	color:#fff;
 }
 
 figure.effect-oscar:hover figcaption {
@@ -221,7 +221,7 @@ h3 {
     font-weight: 600;
     color: #222222;
     font-size: 18px;
-    margin: 0 0 5px 0;
+    margin: 0 0 20px 0;
 }
 
 h6 {
@@ -318,29 +318,29 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #ED5441;
+    color: #ED7A24;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    color: #ED5441;
+    color: #ED7A24;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #CA133A;
+    color: #ED7A24;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #CB143B;
+    color: #ED7A24;
     background-color: transparent;
 }
 
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
     text-decoration: none;
-    color: #ED5441;
+    color: #ED7A24;
     background-color: transparent;
 }
 
@@ -360,7 +360,7 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #ED5441;
+    background: #ED7A24;
     position: relative;
 	
     background: #CE1139;
@@ -454,8 +454,8 @@ a.read_more2:hover, a.read_more:hover {
 }
 a.read_more:hover {
     background: #fff;
-    color: #ED5441;
-    border: 1px solid #ED5441;
+    color: #ED7A24;
+    border: 1px solid #ED7A24;
 }
 
 	
@@ -607,18 +607,18 @@ a.contact_btn {
     text-align: center;
     line-height: 49px;
     font-size: 16px;
-    color: #ED5441;
+    color: #ED7A24;
     border-radius: 3px;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    border: 2px solid #ED5441;
+    border: 2px solid #ED7A24;
     transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
 }
 
 a.contact_btn:hover {
-    background: #ED5441;
+    background: #ED7A24;
     color: #fff;
 }
 
@@ -663,7 +663,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a:hover {
-    background: #ED5441;
+    background: #ED7A24;
     color: #fff;
     text-decoration: none;
 }
@@ -693,7 +693,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a.current {
-    background: #ED5441;
+    background: #ED7A24;
     color: #fff;
     text-decoration: none;
 }
@@ -823,7 +823,7 @@ background-size: auto 100%;
 background-position-y: 70px;
 }
 #about-us .read-more{
-	border: 1px solid #ED5441;
+	border: 1px solid #ED7A24;
 	color: #1a1a1a;
 }
 
@@ -871,7 +871,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #CE1139;
+	color: #ED7A24;
 	left: 0px;
 	top: 3px;
 }
@@ -1056,7 +1056,7 @@ border: 1px solid #CE1139;
 }
 
 .contact_block_icon.icon2 {
-    border-color: #ED5441;
+    border-color: #ED7A24;
 }
 
 .contact_block_icon.icon3 {
@@ -1073,11 +1073,11 @@ border: 1px solid #CE1139;
 }
 
 .contact_block_icon.icon2 {
-    border-color: #ED5441;
+    border-color: #ED7A24;
 }
 
 .contact_block_icon.icon2 span {
-    background: #ED5441;
+    background: #ED7A24;
 }
 
 .contact_block_icon.icon3 {
@@ -1168,22 +1168,6 @@ border: 1px solid #CE1139;
     border-radius: 80px;
 }
 
-.twitter a:hover {
-    color: #55acee;
-}
-
-.facebook a:hover {
-    color: #3b5998;
-}
-
-.pinterest a:hover {
-    color: #cb2026;
-}
-
-.gplus a:hover {
-    color: #dd4b39;
-}
- 
 
 .form {
     margin: 0 66px 0 30px;
@@ -1380,10 +1364,10 @@ border: 1px solid #CE1139;
 }
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
-    background: #CE1139;
+    background: #ED7A24;
     color: #FFFFFF;
     text-decoration: none;
-    border: #CE1139 solid 1px;
+    border: #ED7A24 solid 1px;
 }
 
 .section-title h2 {
@@ -1968,7 +1952,7 @@ font-size: 30px;
 padding: 60px 0 50px;
 } 
 .navbar-inverse .navbar-toggle .icon-bar{
-background:#ED5441;
+background:#ED7A24;
 }
 .navbar-inverse .navbar-toggle {
 border-color: transparent;
